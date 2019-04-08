@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BooleanSource
+comment0.text=\n\ Probability\ Calculator\n\n\ @author\ (Eli\ Lainez)\n\ @version\ (10/02/18)\n
+comment1.params=probability
+comment1.target=BooleanSource(double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BooleanSource\n
+comment2.params=
+comment2.target=boolean\ query()
+numComments=3

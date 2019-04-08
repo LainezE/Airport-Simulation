@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Averager
+comment0.text=\n\ Calculates\ the\ average\ \n\n\ @author\ (Eli\ Lainez)\n\ @version\ (10/3/18)\n
+comment1.params=
+comment1.target=Averager()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Averager\n
+comment2.params=value
+comment2.target=void\ addNumber(double)
+comment2.text=\n\ add\ a\ number\ to\ the\ total\ average\ \n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment3.params=
+comment3.target=double\ average()
+comment4.params=
+comment4.target=int\ getCount()
+numComments=5

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Plane
+comment0.text=\n\ Plane\ Object\n\n\ @author\ (Eli\ Lainez)\n\ @version\ (10/03/18\n
+comment1.params=timeLeftToLand\ arrivalTime
+comment1.target=Plane(double,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Plane\n
+comment2.params=
+comment2.target=void\ increaseTimeInAir()
+comment3.params=
+comment3.target=int\ getTimeInAir()
+comment4.params=
+comment4.target=double\ getTimeLeftToLand()
+comment5.params=
+comment5.target=double\ getArrivalTime()
+comment6.params=
+comment6.target=void\ reduceTimeToLand()
+numComments=7

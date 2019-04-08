@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Simulation
+comment0.text=\nThis\ is\ a\ simulation\ of\ an\ airport\ with\ one\ landing\ strip\n\n\ @author\ (Eli\ Lainez)\n\ @version\ (10/01/2018)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ This\ main\ method\ activates\ the\ Airplane\ Simulation\ with\ user\ chosen\ parameters\n
+comment2.params=minutesToLand\ minutesToTakeOff\ probabilityOfArrival\ timeBetweenPlanesToLand\ probabilityOfDeparture\ timeBetweenPlanesToTakeoff\ timeInAirBeforeCrashing\ runTime
+comment2.target=void\ ActivateSimulation(double,\ double,\ double,\ double,\ double,\ double,\ double,\ double)
+numComments=3

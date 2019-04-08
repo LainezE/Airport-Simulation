@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LandingStrip
+comment0.text=\n\ Write\ a\ description\ of\ class\ LandingStrip\ here.\n\n\ @author\ (Eli\ Lainez)\n\ @version\ (10/02/18)\n
+comment1.params=
+comment1.target=LandingStrip()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ LandingStrip\n
+comment2.params=
+comment2.target=boolean\ isBusy()
+numComments=3
